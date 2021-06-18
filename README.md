@@ -1,1 +1,0 @@
-# Relational_databases_MySQL
